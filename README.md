@@ -1,18 +1,18 @@
-# `monaco-editor-vue3`
+# `monaco-vue3`
 
 The Monaco Editor for VueJS v3.
 
 ## Install
 
 ```sh
-npm i monaco-editor-vue3
+npm i monaco-vue3
 ```
 
 ## Usage
 
 ```vue
 <script setup>
-import MonacoEditor from 'monaco-editor-vue3';
+import MonacoEditor from 'monaco-vue3';
 </script>
 
 <template>

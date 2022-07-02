@@ -1,5 +1,5 @@
 {
-  "name": "monaco-editor-vue3",
+  "name": "monaco-vue3",
   "description": "Monaco Editor inside VueJS 3",
   "version": "0.0.1",
   "peerDependencies": {
