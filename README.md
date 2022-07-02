@@ -19,3 +19,23 @@ import MonacoEditor from 'monaco-editor-vue3';
   <MonacoEditor onChange="onChangeMethod" initialValue="console.log('Hello World!')" />
 </template>
 ```
+
+## Props
+
+### `onChange`
+
+- Type: `Function`
+
+Gets a value of the editor whenever it changes.
+
+### `initialValue`
+
+- Type: `string`
+
+Initial value of the editor.
+
+### `config`
+
+- Type: `Object`
+
+More configuration to be passed to Monaco Editor.
