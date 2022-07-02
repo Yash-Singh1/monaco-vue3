@@ -1,0 +1,5 @@
+.gitignore
+node_modules/
+.github/
+MonacoEditor.vue
+vite.config.js
